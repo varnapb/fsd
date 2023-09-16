@@ -1,0 +1,26 @@
+.head{
+    background-color: rgb(196, 241, 255);
+}
+#link{
+    text-decoration: none;
+    float: right;
+}
+.box{
+    border: 1px solid red;
+    margin-left: 40px;
+    margin-right: 60px;
+    margin-top: 45px;
+   /* padding-left: 20px;
+    padding-right:20px ;
+    padding-top: 20px;
+    padding-bottom: 20px; */
+    padding: 20px 10px 20px 50px;
+}
+table,th,tr,td{
+    border:1px solid black;
+    
+    margin:40px ;
+}
+th,td{
+    padding: 10px;
+}
